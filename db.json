@@ -1,236 +1,244 @@
 {
   "movies": [
-    {
-      "id": "0",
-      "name": "Yoop Invasion",
-      "photo": "0.png",
-      "vote_average": "74",
-      "genres": "Comedy, Action",
-      "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0118/animation/di_ela_ph_2_0118_intro_02.mp4"
-    },
-    {
-      "id": "1",
-      "name": "Yoop Invasion",
-      "photo": "1.png",
-      "vote_average": "79",
-      "genres": "Action",
-      "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0118/animation/di_ela_ph_2_0118_outro_02.mp4"
-    },
-    {
-      "id": "2",
-      "name": "Yoop Invasion",
-      "photo": "2.png",
-      "vote_average": "76",
-      "genres": "Horror,Documentary",
-      "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0117/animation/di_ela_ph_2_0117_intro_07.mp4"
-    },
-    {
-      "id": "3",
-      "name": "Yoop Invasion",
-      "photo": "3.png",
-      "vote_average": "78",
-      "genres": "Drama,Comedy",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT02_22.mp4"
-    },
-    {
-      "id": "4",
-      "name": "Yoop Invasion",
-      "photo": "4.png",
-      "vote_average": "77",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT03_37.mp4"
-    },
-    {
-      "id": "5",
-      "name": "Yoop Invasion",
-      "photo": "5.png",
-      "vote_average": "70",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT04_06.mp4"
-    },
-    {
-      "id": "6",
-      "name": "Yoop Invasion",
-      "photo": "6.png",
-      "vote_average": "81",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1006/animation/di_ela_voc_k_1006_INT02_13.mp4"
-    },
-    {
-      "id": "7",
-      "name": "Yoop Invasion",
-      "photo": "7.png",
-      "vote_average": "68",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1006/animation/di_ela_voc_k_1006_INT03_20.mp4"
-    },
-    {
-      "id": "8",
-      "name": "Yoop Invasion",
-      "photo": "8.png",
-      "vote_average": "87",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT02_19.mp4"
-    },
-    {
-      "id": "9",
-      "name": "Yoop Invasion",
-      "photo": "9.png",
-      "vote_average": "71",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT03_19.mp4"
-    },
-    {
-      "id": "10",
-      "name": "Yoop Invasion",
-      "photo": "10.png",
-      "vote_average": "75",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT04_02.mp4"
-    },
-    {
-      "id": "11",
-      "name": "Yoop Invasion",
-      "photo": "11.png",
-      "vote_average": "83",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1004/animation/di_ela_voc_2_1004_INT02_16.mp4"
-    },
-    {
-      "id": "12",
-      "name": "Yoop Invasion",
-      "photo": "12.png",
-      "vote_average": "81",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1008/animation/di_ela_voc_k_1008_INT03_14.mp4"
-    },
-    {
-      "id": "13",
-      "name": "Yoop Invasion",
-      "photo": "13.png",
-      "vote_average": "75",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1008/animation/di_ela_voc_k_1008_INT04_01.mp4"
-    },
-    {
-      "id": "14",
-      "name": "Yoop Invasion",
-      "photo": "14.png",
-      "vote_average": "89",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT02_08.mp4"
-    },
-    {
-      "id": "15",
-      "name": "Yoop Invasion",
-      "photo": "15.png",
-      "vote_average": "85",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT03_13.mp4"
-    },
-    {
-      "id": "16",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "92",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT04_01.mp4"
-    },
-    {
-      "id": "17",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "82",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT02_13.mp4"
-    },
-    {
-      "id": "18",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "91",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT03_21.mp4"
-    },
-    {
-      "id": "19",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "83",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT04_02.mp4"
-    },
-    {
-      "id": "20",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "73",
-      "genres": "History",
-      "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0117/animation/di_ela_ph_2_0117_outro_02.mp4"
-    },
-    {
-      "id": "21",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "61",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT02_12.mp4"
-    },
-    {
-      "id": "22",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "66",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT03_23.mp4"
-    },
-    {
-      "id": "23",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "97",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT04_02.mp4"
-    },
-    {
-      "id": "24",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "70",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1004/animation/di_ela_voc_2_1004_INT03_14.mp4"
-    },
-    {
-      "id": "25",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "97",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1009/animation/di_ela_voc_1_1009_INT02_12.mp4"
-    },
-    {
-      "id": "26",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "73",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1009/animation/di_ela_voc_k_1009_INT02_08.mp4"
-    },
-    {
-      "id": "27",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "85",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1009/animation/di_ela_voc_k_1009_INT03_22.mp4"
-    },
-    {
-      "id": "28",
-      "name": "Yoop Invasion",
-      "photo": "16.png",
-      "vote_average": "93",
-      "genres": "History",
-      "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1009/animation/di_ela_voc_1_1009_INT03_12.mp4"
-    }
-  ]
+  {
+    "id": "0",
+    "name": "Yoop goes to Florida",
+    "photo": "0.png",
+    "vote_average": "87",
+    "genres": "Comedy, Action",
+    "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0118/animation/di_ela_ph_2_0118_intro_02.mp4"
+  },
+  {
+    "id": "1",
+    "name": "Snargg blasts off",
+    "photo": "1.png",
+    "vote_average": "71",
+    "genres": "Action",
+    "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0118/animation/di_ela_ph_2_0118_outro_02.mp4"
+  },
+  {
+    "id": "2",
+    "name": "Plory's Revenge",
+    "photo": "2.png",
+    "vote_average": "92",
+    "genres": "Horror,Documentary",
+    "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0117/animation/di_ela_ph_2_0117_intro_07.mp4"
+  },
+  {
+    "id": "3",
+    "name": "Agent Peril in Peril",
+    "photo": "3.png",
+    "vote_average": "84",
+    "genres": "Drama,Comedy",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT02_22.mp4"
+  },
+  {
+    "id": "4",
+    "name": "The rise of Agent X",
+    "photo": "4.png",
+    "vote_average": "93",
+    "genres": "History",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT03_37.mp4"
+  },
+  {
+    "id": "5",
+    "name": "What is a Snargg?",
+    "photo": "5.png",
+    "vote_average": "71",
+    "genres": "History",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1002/animation/di_ela_voc_2_1002_INT04_06.mp4"
+  },
+  {
+    "id": "6",
+    "name": "Yoop + Plorys friendship",
+    "photo": "6.png",
+    "vote_average": "97",
+    "genres": "History",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1006/animation/di_ela_voc_k_1006_INT02_13.mp4"
+  },
+  {
+    "id": "7",
+    "name": "Yoop and Yooper",
+    "photo": "7.png",
+    "vote_average": "72",
+    "genres": "Comedy",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1006/animation/di_ela_voc_k_1006_INT03_20.mp4"
+  },
+  {
+    "id": "8",
+    "name": "Plorys Adventure",
+    "photo": "8.png",
+    "vote_average": "77",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT02_19.mp4"
+  },
+  {
+    "id": "9",
+    "name": "Yoop makes a friend",
+    "photo": "9.png",
+    "vote_average": "65",
+    "genres": "Romance",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT03_19.mp4"
+  },
+  {
+    "id": "10",
+    "name": "Snargg goes back in time",
+    "photo": "10.png",
+    "vote_average": "82",
+    "genres": "Western",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1003/animation/di_ela_voc_2_1003_INT04_02.mp4"
+  },
+  {
+    "id": "11",
+    "name": "Highschool",
+    "photo": "11.png",
+    "vote_average": "95",
+    "genres": "Musical, Indie",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1004/animation/di_ela_voc_2_1004_INT02_16.mp4"
+  },
+  {
+    "id": "12",
+    "name": "Yoop Invasion",
+    "photo": "12.png",
+    "vote_average": "72",
+    "genres": "Thriller",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1008/animation/di_ela_voc_k_1008_INT03_14.mp4"
+  },
+  {
+    "id": "13",
+    "name": "What happened to Yoop?",
+    "photo": "13.png",
+    "vote_average": "95",
+    "genres": "Mystery",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1008/animation/di_ela_voc_k_1008_INT04_01.mp4"
+  },
+  {
+    "id": "14",
+    "name": "Yoop Yoop",
+    "photo": "14.png",
+    "vote_average": "78",
+    "genres": "Fantasy",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT02_08.mp4"
+  },
+  {
+    "id": "15",
+    "name": "Where did the cookies go?",
+    "photo": "15.png",
+    "vote_average": "80",
+    "genres": "Mystery",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT03_13.mp4"
+  },
+  {
+    "id": "16",
+    "name": "Cookie adventure",
+    "photo": "16.png",
+    "vote_average": "60",
+    "genres": "Fantasy",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1008/animation/di_ela_voc_1_1008_INT04_01.mp4"
+  },
+  {
+    "id": "17",
+    "name": "Not again",
+    "photo": "16.png",
+    "vote_average": "73",
+    "genres": "Adventure, Comedy",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT02_13.mp4"
+  },
+  {
+    "id": "18",
+    "name": "Who ate the cookie?",
+    "photo": "16.png",
+    "vote_average": "90",
+    "genres": "Mystery",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT03_21.mp4"
+  },
+  {
+    "id": "19",
+    "name": "Wha ate the cookie, this time?",
+    "photo": "16.png",
+    "vote_average": "93",
+    "genres": "Mystery",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1006/animation/di_ela_voc_2_1006_INT04_02.mp4"
+  },
+  {
+    "id": "20",
+    "name": "Snargg 2.0",
+    "photo": "16.png",
+    "vote_average": "69",
+    "genres": "History, Drama",
+    "videoURL": "${content}/reading/lessons/DI.ELA.PH.2.0117/animation/di_ela_ph_2_0117_outro_02.mp4"
+  },
+  {
+    "id": "21",
+    "name": "The rise of Plory",
+    "photo": "16.png",
+    "vote_average": "96",
+    "genres": "History, Indie",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT02_12.mp4"
+  },
+  {
+    "id": "22",
+    "name": "The rise of Snargg",
+    "photo": "16.png",
+    "vote_average": "63",
+    "genres": "History",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT03_23.mp4"
+  },
+  {
+    "id": "23",
+    "name": "Rocky meets Plory",
+    "photo": "16.png",
+    "vote_average": "61",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1006/animation/di_ela_voc_1_1006_INT04_02.mp4"
+  },
+  {
+    "id": "24",
+    "name": "Lord of the Cookies",
+    "photo": "16.png",
+    "vote_average": "81",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1004/animation/di_ela_voc_2_1004_INT03_14.mp4"
+  },
+  {
+    "id": "25",
+    "name": "Return of Snargg",
+    "photo": "16.png",
+    "vote_average": "67",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1009/animation/di_ela_voc_1_1009_INT02_12.mp4"
+  },
+  {
+    "id": "26",
+    "name": "Ploryman",
+    "photo": "16.png",
+    "vote_average": "89",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1009/animation/di_ela_voc_k_1009_INT02_08.mp4"
+  },
+  {
+    "id": "27",
+    "name": "Ploryman II",
+    "photo": "16.png",
+    "vote_average": "70",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.K.1009/animation/di_ela_voc_k_1009_INT03_22.mp4"
+  },
+  {
+    "id": "28",
+    "name": "Yoop goes to Texas",
+    "photo": "16.png",
+    "vote_average": "88",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.1.1009/animation/di_ela_voc_1_1009_INT03_12.mp4"
+  },
+  {
+    "id": "29",
+    "name": "Yoop gets a dog",
+    "photo": "16.png",
+    "vote_average": "69",
+    "genres": "Adventure",
+    "videoURL": "${content}/vocab/lessons/DI.ELA.VOC.2.1001/animation/di_ela_voc_2_1001_INT03_26.mp4"
+  }
+]
 }
